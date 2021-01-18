@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="FinalOdevi">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/dist/FinalOdevi.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

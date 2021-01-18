@@ -1,0 +1,12 @@
+<component name="libraryTable">
+  <library name="lib">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/dist/lib/sqljdbc4-2.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/dist/lib/KGradientPanel.jar!/" />
+      <root url="jar://$PROJECT_DIR$/dist/lib/jtds.jar!/" />
+      <root url="jar://$PROJECT_DIR$/dist/lib/LGoodDatePicker-10.4.1-executable-demo.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
